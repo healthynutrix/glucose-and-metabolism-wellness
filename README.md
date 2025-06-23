@@ -1,6 +1,6 @@
 # Blood Sugar and Metabolism: A Complete Wellness Guide
 
-![Blood Sugar Health](https://raw.githubusercontent.com/healthynutrix/glucose-and-metabolism-wellness/main/blood-sugar.webp)
+![Blood Sugar Health](https://raw.githubusercontent.com/healthynutrix/glucose-and-metabolism-wellness/main/metabolism.webp)
 
 Metabolic health is one of the most essential parts of staying well. Your blood sugar level plays a key role in this balance. If you are managing diabetes or prediabetes or just want to stay healthy, it is helpful to know how your body handles sugar. This knowledge can help you make smarter choices every day.
 
